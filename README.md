@@ -1,5 +1,5 @@
 ### about
-simple app to currently calculating new transactions summary for given client accounts
+simple app currently calculating new transactions summary for given client accounts
 
 #### run
  ./gradlew bootRun
