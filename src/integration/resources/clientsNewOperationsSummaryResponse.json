@@ -1,0 +1,28 @@
+{
+  "clients": [
+    {
+      "clientInfo": {
+        "name": "adam",
+        "surname": "mada"
+      },
+      "calculatedAccountOperations": {
+        "currentBalance": "1112,00 PLN",
+        "accountTurnover": "1234,00 PLN",
+        "totalIncome": "989,00 PLN",
+        "totalExpenses": "245,00 PLN"
+      }
+    },
+    {
+      "clientInfo": {
+        "name": "adam",
+        "surname": "second"
+      },
+      "calculatedAccountOperations": {
+        "currentBalance": "112,23 EUR",
+        "accountTurnover": "123,23 EUR",
+        "totalIncome": "99,79 EUR",
+        "totalExpenses": "23,44 EUR"
+      }
+    }
+  ]
+}

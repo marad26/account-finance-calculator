@@ -1,0 +1,74 @@
+{
+  "clients": {
+    "client": [
+      {
+        "info": {
+          "name": "adam",
+          "surname": "mada"
+        },
+        "balance": {
+          "total": "123",
+          "currency": "PLN",
+          "date": "11.11.2011"
+        },
+        "transactions": [
+          {
+            "type": "outcome",
+            "description": "some description",
+            "date": "12.12.2012",
+            "value": "123",
+            "currency": "PLN"
+          },
+          {
+            "type": "outcome",
+            "description": "some description",
+            "date": "12.10.2012",
+            "value": "122",
+            "currency": "PLN"
+          },
+          {
+            "type": "income",
+            "description": "some description",
+            "date": "12.12.2012",
+            "value": "1234",
+            "currency": "PLN"
+          }
+        ]
+      },
+      {
+        "info": {
+          "name": "adam",
+          "surname": "second"
+        },
+        "balance": {
+          "total": "12,44",
+          "currency": "EUR",
+          "date": "11.11.2011"
+        },
+        "transactions": [
+          {
+            "type": "outcome",
+            "description": "some description",
+            "date": "12.12.2012",
+            "value": "12,33",
+            "currency": "EUR"
+          },
+          {
+            "type": "outcome",
+            "description": "some description",
+            "date": "12.10.2012",
+            "value": "11,11",
+            "currency": "EUR"
+          },
+          {
+            "type": "income",
+            "description": "some description",
+            "date": "12.12.2012",
+            "value": "123,23",
+            "currency": "EUR"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "clients": [
+    {
+      "clientInfo": {
+        "name": "Tomasz",
+        "surname": "Kowalski"
+      },
+      "calculatedAccountOperations": {
+        "currentBalance": "19010,00 PLN",
+        "accountTurnover": "9200,00 PLN",
+        "totalIncome": "6900,00 PLN",
+        "totalExpenses": "2300,00 PLN"
+      }
+    },
+    {
+      "clientInfo": {
+        "name": "Natalia",
+        "surname": "Nowak"
+      },
+      "calculatedAccountOperations": {
+        "currentBalance": "14999,50 PLN",
+        "accountTurnover": "10500,00 PLN",
+        "totalIncome": "8249,50 PLN",
+        "totalExpenses": "2250,50 PLN"
+      }
+    }
+  ]
+}

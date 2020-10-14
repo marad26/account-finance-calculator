@@ -1,0 +1,26 @@
+{
+  "clients": {
+    "client": [
+      {
+        "info": {
+          "name": "adam",
+          "surname": "mada"
+        },
+        "balance": {
+          "total": "123",
+          "currency": "PLN",
+          "date": "11.11.2011"
+        },
+        "transactions": [
+          {
+            "type": "outcome",
+            "description": "some description",
+            "date": "12.12.2012",
+            "value": "123abcd",
+            "currency": "PLN"
+          }
+        ]
+      }
+    ]
+  }
+}
